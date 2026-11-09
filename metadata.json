@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Form Surat PHK",
+  "description": "Aplikasi dashboard pembuatan dan pengelolaan Surat Pemberitahuan Pemutusan Hubungan Kerja (PHK) berdasarkan PP No. 35 Tahun 2021 dengan pratinjau cetak dan ekspor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
